@@ -211,7 +211,7 @@ const details = () => {
           </p>
           <div className="skills-detail">
             <p>
-              <a href="https://github.com/KhanzadaSohaib">
+              <a href="https://github.com/KhanzadaSohaib/Portfolio">
                 <i class="fa-brands fa-github"></i> GitHub
               </a>
             </p>
